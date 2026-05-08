@@ -21,4 +21,4 @@ chmod +x deploy.sh
 
 # URL
 
-http://100.54.23.59/
+http://100.27.38.67/
