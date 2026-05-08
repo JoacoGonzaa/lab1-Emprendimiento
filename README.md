@@ -11,7 +11,7 @@
 
 Café del Sur
 
-## Instrucciones para ejecutar el script
+## Instrucciones para ejecutar el script "git bash"
 
 # Dar permisos para ejecucion
 chmod +x deploy.sh
